@@ -1,0 +1,16 @@
+autogen
+autogen-agentchat
+autogen-ext[openai,azure]
+python-dotenv
+PyPDF2
+pdf2image
+pdfkit
+Pillow
+poppler-utils
+
+# Testing dependencies
+pytest
+pytest-asyncio
+pytest-cov
+coverage
+unittest-xml-reporting
